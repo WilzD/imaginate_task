@@ -1,0 +1,19 @@
+.trend_product{
+    width: 100px;
+    height: 300px;
+}
+.trend_cate {
+    width: 304px;
+    height: 270px;
+}
+.trending_label{
+    font-size: 10px;
+    margin-top: -3rem;
+    margin-right: 31rem;
+
+}
+
+*{
+    font-family: 'League Spartan', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
